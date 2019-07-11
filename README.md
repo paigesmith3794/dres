@@ -1,5 +1,3 @@
-# group-project-2
-
 ## DRES
 
 [DRES Deployed Project](https://dresfit.herokuapp.com/)
